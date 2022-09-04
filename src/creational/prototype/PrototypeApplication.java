@@ -1,6 +1,6 @@
 package creational.prototype;
 
-public class Prototype {
+public class PrototypeApplication {
   public static void main(String[] args) {
     Project master = new Project(1, "name", "source code 1");
     System.out.println(master);
